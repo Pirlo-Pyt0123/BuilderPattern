@@ -1,0 +1,3 @@
+D:\Game\BuilderPattern\Intermediate\Build\Win64\UE4Editor\DebugGame\BuilderPattern\Definitions.BuilderPattern.h
+D:\Game\BuilderPattern\Source\BuilderPattern\C_Escudo.h
+D:\Game\BuilderPattern\Intermediate\Build\Win64\UE4Editor\Inc\BuilderPattern\C_Escudo.generated.h
