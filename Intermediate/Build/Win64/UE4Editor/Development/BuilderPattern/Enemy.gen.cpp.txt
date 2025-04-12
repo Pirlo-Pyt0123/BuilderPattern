@@ -1,0 +1,5 @@
+D:\Game\BuilderPattern\Intermediate\Build\Win64\UE4Editor\Development\BuilderPattern\Definitions.BuilderPattern.h
+D:\juegazo\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\juegazo\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Game\BuilderPattern\Source\BuilderPattern/Enemy.h
+D:\Game\BuilderPattern\Intermediate\Build\Win64\UE4Editor\Inc\BuilderPattern\Enemy.generated.h

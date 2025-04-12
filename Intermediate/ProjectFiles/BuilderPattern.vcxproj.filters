@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\BuilderPattern.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{BEB31DE1-ABB4-4F3B-A81B-11372654D2C0}</UniqueIdentifier>
+      <UniqueIdentifier>{81FB070E-8CE2-4529-980A-3F2EF229BE5F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\BuilderPattern.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,11 @@
     <None Include="..\..\Source\BuilderPatternEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\README.md" />
     <Filter Include="Config">
-      <UniqueIdentifier>{ADC28F16-EB95-4F17-B5BA-A53D75627D53}</UniqueIdentifier>
+      <UniqueIdentifier>{C54CA97E-5EF3-478E-A4A0-131BB37719FA}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +33,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\BuilderPattern">
-      <UniqueIdentifier>{361B42E7-93B1-40F7-B9D0-ACAEFCD020AB}</UniqueIdentifier>
+      <UniqueIdentifier>{C22865F0-9D3F-42AE-97AF-BFBBBD304252}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\BuilderPattern\BuilderPattern.Build.cs">
       <Filter>Source\BuilderPattern</Filter>
@@ -57,6 +60,12 @@
       <Filter>Source\BuilderPattern</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\BuilderPattern\BuilderPatternProjectile.h">
+      <Filter>Source\BuilderPattern</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BuilderPattern\Enemy.cpp">
+      <Filter>Source\BuilderPattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BuilderPattern\Enemy.h">
       <Filter>Source\BuilderPattern</Filter>
     </ClInclude>
   </ItemGroup>
