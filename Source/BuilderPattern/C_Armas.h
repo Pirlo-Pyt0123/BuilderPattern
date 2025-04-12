@@ -14,6 +14,8 @@ class BUILDERPATTERN_API AC_Armas : public AActor
 public:	
 	// Sets default values for this actor's properties
 	AC_Armas();
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Projectile, meta = (AllowPrivateAccess = "true"))
+	UStaticMeshComponent* MeshArma;
 
 protected:
 	// Called when the game starts or when spawned

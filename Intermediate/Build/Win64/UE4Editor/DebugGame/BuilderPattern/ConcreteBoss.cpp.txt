@@ -16,3 +16,7 @@ D:\juegazo\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Dialogue
 D:\juegazo\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
 D:\juegazo\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
 D:\juegazo\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+D:\Game\BuilderPattern\Source\BuilderPattern\C_Armas.h
+D:\Game\BuilderPattern\Intermediate\Build\Win64\UE4Editor\Inc\BuilderPattern\C_Armas.generated.h
+D:\Game\BuilderPattern\Source\BuilderPattern\C_Escudo.h
+D:\Game\BuilderPattern\Intermediate\Build\Win64\UE4Editor\Inc\BuilderPattern\C_Escudo.generated.h

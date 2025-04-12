@@ -58,7 +58,17 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AUltimateBoss)
 
 
-#define BuilderPattern_Source_BuilderPattern_UltimateBoss_h_15_PRIVATE_PROPERTY_OFFSET
+#define BuilderPattern_Source_BuilderPattern_UltimateBoss_h_15_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__ArmaActual() { return STRUCT_OFFSET(AUltimateBoss, ArmaActual); } \
+	FORCEINLINE static uint32 __PPO__EscudoActual() { return STRUCT_OFFSET(AUltimateBoss, EscudoActual); } \
+	FORCEINLINE static uint32 __PPO__VidaBoss() { return STRUCT_OFFSET(AUltimateBoss, VidaBoss); } \
+	FORCEINLINE static uint32 __PPO__IA_Comportamiento() { return STRUCT_OFFSET(AUltimateBoss, IA_Comportamiento); } \
+	FORCEINLINE static uint32 __PPO__TipoMovimiento() { return STRUCT_OFFSET(AUltimateBoss, TipoMovimiento); } \
+	FORCEINLINE static uint32 __PPO__PuntoArmaIzquierda() { return STRUCT_OFFSET(AUltimateBoss, PuntoArmaIzquierda); } \
+	FORCEINLINE static uint32 __PPO__PuntoArmaDerecha() { return STRUCT_OFFSET(AUltimateBoss, PuntoArmaDerecha); } \
+	FORCEINLINE static uint32 __PPO__PuntoEscudoFrontal() { return STRUCT_OFFSET(AUltimateBoss, PuntoEscudoFrontal); }
+
+
 #define BuilderPattern_Source_BuilderPattern_UltimateBoss_h_12_PROLOG
 #define BuilderPattern_Source_BuilderPattern_UltimateBoss_h_15_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \

@@ -1,0 +1,3 @@
+D:\Game\BuilderPattern\Intermediate\Build\Win64\UE4Editor\Development\BuilderPattern\Definitions.BuilderPattern.h
+D:\Game\BuilderPattern\Source\BuilderPattern\C_Armas.h
+D:\Game\BuilderPattern\Intermediate\Build\Win64\UE4Editor\Inc\BuilderPattern\C_Armas.generated.h

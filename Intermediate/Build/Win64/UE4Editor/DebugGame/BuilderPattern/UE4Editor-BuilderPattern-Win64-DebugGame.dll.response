@@ -34,6 +34,7 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
 "D:\Game\BuilderPattern\Intermediate\Build\Win64\BuilderPatternEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"D:\Game\BuilderPattern\Intermediate\Build\Win64\UE4Editor\DebugGame\BuilderPattern\BossDirector.cpp.obj"
 "D:\Game\BuilderPattern\Intermediate\Build\Win64\UE4Editor\DebugGame\BuilderPattern\BuildBoss.cpp.obj"
 "D:\Game\BuilderPattern\Intermediate\Build\Win64\UE4Editor\DebugGame\BuilderPattern\BuilderPattern.cpp.obj"
 "D:\Game\BuilderPattern\Intermediate\Build\Win64\UE4Editor\DebugGame\BuilderPattern\BuilderPatternGameMode.cpp.obj"
@@ -44,6 +45,7 @@
 "D:\Game\BuilderPattern\Intermediate\Build\Win64\UE4Editor\DebugGame\BuilderPattern\C_Escudo.cpp.obj"
 "D:\Game\BuilderPattern\Intermediate\Build\Win64\UE4Editor\DebugGame\BuilderPattern\Enemy.cpp.obj"
 "D:\Game\BuilderPattern\Intermediate\Build\Win64\UE4Editor\DebugGame\BuilderPattern\UltimateBoss.cpp.obj"
+"D:\Game\BuilderPattern\Intermediate\Build\Win64\UE4Editor\DebugGame\BuilderPattern\BossDirector.gen.cpp.obj"
 "D:\Game\BuilderPattern\Intermediate\Build\Win64\UE4Editor\DebugGame\BuilderPattern\BuildBoss.gen.cpp.obj"
 "D:\Game\BuilderPattern\Intermediate\Build\Win64\UE4Editor\DebugGame\BuilderPattern\BuilderPattern.init.gen.cpp.obj"
 "D:\Game\BuilderPattern\Intermediate\Build\Win64\UE4Editor\DebugGame\BuilderPattern\BuilderPatternGameMode.gen.cpp.obj"

@@ -2,4 +2,10 @@ D:\Game\BuilderPattern\Intermediate\Build\Win64\UE4Editor\Development\BuilderPat
 D:\juegazo\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 D:\juegazo\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
 D:\Game\BuilderPattern\Source\BuilderPattern/ConcreteBoss.h
+D:\Game\BuilderPattern\Source\BuilderPattern\BuildBoss.h
+D:\Game\BuilderPattern\Intermediate\Build\Win64\UE4Editor\Inc\BuilderPattern\BuildBoss.generated.h
+D:\Game\BuilderPattern\Source\BuilderPattern\UltimateBoss.h
+D:\Game\BuilderPattern\Source\BuilderPattern\Enemy.h
+D:\Game\BuilderPattern\Intermediate\Build\Win64\UE4Editor\Inc\BuilderPattern\Enemy.generated.h
+D:\Game\BuilderPattern\Intermediate\Build\Win64\UE4Editor\Inc\BuilderPattern\UltimateBoss.generated.h
 D:\Game\BuilderPattern\Intermediate\Build\Win64\UE4Editor\Inc\BuilderPattern\ConcreteBoss.generated.h

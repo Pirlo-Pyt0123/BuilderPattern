@@ -15,7 +15,7 @@ class BUILDERPATTERN_API AConcreteBoss : public AActor, public IBuildBoss
 	
 private:
 	UPROPERTY()
-	AUltimateBoss* BossActual;
+	AUltimateBoss* BossActual = nullptr;
 
 public:	
 	// Sets default values for this actor's properties

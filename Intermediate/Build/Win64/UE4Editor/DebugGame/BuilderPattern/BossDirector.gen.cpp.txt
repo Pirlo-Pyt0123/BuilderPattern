@@ -1,0 +1,7 @@
+D:\Game\BuilderPattern\Intermediate\Build\Win64\UE4Editor\DebugGame\BuilderPattern\Definitions.BuilderPattern.h
+D:\juegazo\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\juegazo\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Game\BuilderPattern\Source\BuilderPattern/BossDirector.h
+D:\Game\BuilderPattern\Source\BuilderPattern\BuildBoss.h
+D:\Game\BuilderPattern\Intermediate\Build\Win64\UE4Editor\Inc\BuilderPattern\BuildBoss.generated.h
+D:\Game\BuilderPattern\Intermediate\Build\Win64\UE4Editor\Inc\BuilderPattern\BossDirector.generated.h
