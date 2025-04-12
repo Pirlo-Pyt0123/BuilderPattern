@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Game\\BuilderPattern\\Source\\BuilderPattern\\BuilderPattern.Build.cs",
+		"D:\\Game\\BuilderPattern\\Source\\BuilderPattern.Target.cs",
+		"D:\\Game\\BuilderPattern\\Source\\BuilderPatternEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

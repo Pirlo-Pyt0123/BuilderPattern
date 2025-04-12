@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BuilderPattern.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{BEB31DE1-ABB4-4F3B-A81B-11372654D2C0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BuilderPattern.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BuilderPatternEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{ADC28F16-EB95-4F17-B5BA-A53D75627D53}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BuilderPattern">
+      <UniqueIdentifier>{361B42E7-93B1-40F7-B9D0-ACAEFCD020AB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BuilderPattern\BuilderPattern.Build.cs">
+      <Filter>Source\BuilderPattern</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BuilderPattern\BuilderPattern.cpp">
+      <Filter>Source\BuilderPattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BuilderPattern\BuilderPattern.h">
+      <Filter>Source\BuilderPattern</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BuilderPattern\BuilderPatternGameMode.cpp">
+      <Filter>Source\BuilderPattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BuilderPattern\BuilderPatternGameMode.h">
+      <Filter>Source\BuilderPattern</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BuilderPattern\BuilderPatternPawn.cpp">
+      <Filter>Source\BuilderPattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BuilderPattern\BuilderPatternPawn.h">
+      <Filter>Source\BuilderPattern</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BuilderPattern\BuilderPatternProjectile.cpp">
+      <Filter>Source\BuilderPattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BuilderPattern\BuilderPatternProjectile.h">
+      <Filter>Source\BuilderPattern</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

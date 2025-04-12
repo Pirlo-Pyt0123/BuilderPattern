@@ -1,0 +1,15 @@
+D:\Game\BuilderPattern\Intermediate\Build\Win64\UE4Editor\Development\BuilderPattern\Definitions.BuilderPattern.h
+D:\Game\BuilderPattern\Source\BuilderPattern\BuilderPatternGameMode.h
+D:\juegazo\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\juegazo\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\juegazo\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\juegazo\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Game\BuilderPattern\Intermediate\Build\Win64\UE4Editor\Inc\BuilderPattern\BuilderPatternGameMode.generated.h
+D:\Game\BuilderPattern\Source\BuilderPattern\BuilderPatternPawn.h
+D:\juegazo\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\juegazo\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+D:\juegazo\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+D:\juegazo\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\juegazo\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\juegazo\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\Game\BuilderPattern\Intermediate\Build\Win64\UE4Editor\Inc\BuilderPattern\BuilderPatternPawn.generated.h

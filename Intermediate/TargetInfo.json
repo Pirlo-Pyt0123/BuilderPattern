@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BuilderPattern",
+			"Path": "D:\\Game\\BuilderPattern\\Source\\BuilderPattern.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BuilderPatternEditor",
+			"Path": "D:\\Game\\BuilderPattern\\Source\\BuilderPatternEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
