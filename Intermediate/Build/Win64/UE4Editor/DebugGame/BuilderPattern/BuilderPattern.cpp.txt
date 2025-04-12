@@ -1,0 +1,2 @@
+D:\Game\BuilderPattern\Intermediate\Build\Win64\UE4Editor\DebugGame\BuilderPattern\Definitions.BuilderPattern.h
+D:\Game\BuilderPattern\Source\BuilderPattern\BuilderPattern.h

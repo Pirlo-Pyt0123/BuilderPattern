@@ -36,7 +36,7 @@ public: \
 
 #define BuilderPattern_Source_BuilderPattern_UltimateBoss_h_15_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
-	NO_API AUltimateBoss(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	NO_API AUltimateBoss(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AUltimateBoss) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AUltimateBoss); \
 	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AUltimateBoss); \
@@ -48,8 +48,6 @@ public:
 
 
 #define BuilderPattern_Source_BuilderPattern_UltimateBoss_h_15_ENHANCED_CONSTRUCTORS \
-	/** Standard constructor, called after all reflected properties have been initialized */ \
-	NO_API AUltimateBoss() { }; \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AUltimateBoss(AUltimateBoss&&); \

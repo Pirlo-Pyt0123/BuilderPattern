@@ -13,5 +13,9 @@ UCLASS()
 class BUILDERPATTERN_API AUltimateBoss : public AEnemy
 {
 	GENERATED_BODY()
+
+public:
+	// Sets default values for this actor's properties
+	AUltimateBoss();
 	
 };

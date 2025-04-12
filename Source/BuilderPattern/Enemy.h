@@ -14,6 +14,9 @@ class BUILDERPATTERN_API AEnemy : public AActor
 public:	
 	// Sets default values for this actor's properties
 	AEnemy();
+	//mesh component
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Projectile, meta = (AllowPrivateAccess = "true"))
+	UStaticMeshComponent* Mesh;
 
 protected:
 	// Called when the game starts or when spawned

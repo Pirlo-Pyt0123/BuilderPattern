@@ -22,4 +22,17 @@ class BUILDERPATTERN_API IBuildBoss
 
 	// Add interface functions to this class. This is the class that will be inherited to implement this interface.
 public:
+
+	// Métodos para construir paso a paso el boss
+	virtual void BuildArmaEspecial() = 0;
+	virtual void BuildEscudo() = 0;
+	virtual void BuildVidaExtra() = 0;
+	virtual void BuildMovimientoDeJefe() = 0;
+	virtual void BuildIAAvanzada() = 0;
+
+	// Método final para obtener el resultado (el boss armado)
+	virtual class AUltimateBoss* GetBoss() = 0;
+
+	// Reinicia el builder para una nueva construcción
+	virtual void Reset() = 0;
 };

@@ -72,7 +72,7 @@ void EmptyLinkFunctionForGeneratedCodeUltimateBoss() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AUltimateBoss, 868226940);
+	IMPLEMENT_CLASS(AUltimateBoss, 1517746830);
 	template<> BUILDERPATTERN_API UClass* StaticClass<AUltimateBoss>()
 	{
 		return AUltimateBoss::StaticClass();
