@@ -21,7 +21,7 @@ AUltimateBoss::AUltimateBoss()
 
 	PuntoEscudoFrontal = CreateDefaultSubobject<USceneComponent>(TEXT("PuntoEscudoFrontal"));
 	PuntoEscudoFrontal->SetupAttachment(RootComponent);
-	PuntoEscudoFrontal->SetRelativeLocation(FVector(200, 0, 0)); // Frente
+	PuntoEscudoFrontal->SetRelativeLocation(FVector(-200, 0, 0)); // Frente
 
 	// Valores por defecto
 	VidaBoss = 100.f;
@@ -66,6 +66,7 @@ void AUltimateBoss::ConfigurarMovimiento(const FString& NombreMovimiento)
 void AUltimateBoss::ConfigurarIA(const FString& TipoIA)
 {
 	IA_Comportamiento = TipoIA;
+
 }
 
 void AUltimateBoss::BeginPlay()
